@@ -1514,44 +1514,6 @@ a {
         width: 100%;
     }
 
-    #footer .container {
-        width: 98%;
-    }
-
-    #footer .footer-content {
-        flex-direction: row;
-        gap: 60px;
-        text-align: left;
-    }
-
-    #footer .footer-content .footer-brand {
-        width: 100%;
-    }
-
-    #footer .footer-content .footer-categ {
-        width: 10%;
-        margin-right: 60px;
-    }
-
-    #footer .footer-content .footer-news {
-        width: 77%;
-    }
-
-    #footer .footer-brand p {
-        text-align: left;
-        width: 100%;
-    }
-
-    #footer .footer-bottom {
-        flex-direction: column;
-        text-align: center;
-        gap: 16px;
-    }
-
-    #footer .footer-bottom .footer-links {
-        justify-content: center;
-    }
-
     .navbar {
         width: 98%;
         left: 50%;
