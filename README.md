@@ -58,7 +58,7 @@ project/
 ## 🚀 Live Demo
 
 🔗 **Live Website:**  
-https://mkhaled-ahmed.github.io/Assignmnet-4/
+[https://mkhaled-ahmed.github.io/Assignmnet-4/](https://mkhaled-ahmed.github.io/PixelMag-Modern-Magazine-UI-Layout/)
 
 ---
 
