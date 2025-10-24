@@ -714,6 +714,7 @@ a {
     margin-block: 15px;
     color: #000;
     font-weight: 700;
+    cursor: pointer;
 }
 
 #last-articles .sidebar .categories .yellow {
